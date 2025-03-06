@@ -27,7 +27,7 @@ function change2() {
 
 document.getElementById("pic").src = "cliff.jpg";
 
-document.getElementById("h2text").innerText = "Tzyy-Ching Yang";
+document.getElementById("h2text").innerText = "Xin-Tong Guo";
 
 }
 
